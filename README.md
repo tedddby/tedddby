@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **awab.univ@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QexIYGzfkgzZtbE7T89i0xgxSuSWZjWZ/view?usp=sharing](https://drive.google.com/file/d/1QexIYGzfkgzZtbE7T89i0xgxSuSWZjWZ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hR-_97YnKVAlUtBomqMEQnoK6MC3POc9/view?usp=drive_link](https://drive.google.com/file/d/1hR-_97YnKVAlUtBomqMEQnoK6MC3POc9/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

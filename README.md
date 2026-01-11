@@ -7,7 +7,7 @@
 
 - 👨‍💻 LinkedIn Profile [https://www.linkedin.com/in/4wab-ali/](https://www.linkedin.com/in/4wab-ali/)
 
-- 📫 How to reach me **awab.univ@gmail.com**
+- 📫 How to reach me **awab0dev@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hR-_97YnKVAlUtBomqMEQnoK6MC3POc9/view?usp=drive_link](https://drive.google.com/file/d/1hR-_97YnKVAlUtBomqMEQnoK6MC3POc9/view?usp=drive_link)
 

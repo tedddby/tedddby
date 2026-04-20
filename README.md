@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Awab Ali</h1>
+<h1 align="center">Hi, I'm Awab Ali</h1>
 <p align="center">
-  <strong>Technical Entrepreneur | Backend Architect | Full-Stack Developer</strong>
+  <strong>Backend & DevOps Engineer</strong>
 </p>
 
 <p align="center">
@@ -15,24 +15,39 @@
 
 ---
 
-### 🚀 About Me
-I am a **Backend-focused Software Engineer** and startup co-founder specializing in scalable architecture and high-performance APIs. I bridge the gap between complex server-side logic and seamless user experiences.
+###  About Me
+I'm a Backend & DevOps Engineer who builds things end-to-end — from architecture to production.
+ 
+Currently co-founding Zameel, a multi-tenant SaaS platform that lets Gulf merchants accept orders through AI-powered WhatsApp conversations. I own everything from the Node.js backend and database design to Docker deployments and payment infrastructure — the kind of ownership you only get when you're building something real.
+ 
+Some things I'm proud of shipping:
+ 
+— An LLM-powered order parsing engine (Gemini / DeepSeek / Claude) achieving 87% extraction accuracy across Arabic & English
+— A Redis caching layer that cut AI API calls by 48% and improved response times by 35%
+— A full payment migration from Tap to Stripe with 100% completion and a 17% lift in transaction rates
+ 
+Before Zameel, I built and operated my own software platform (TedddbyActivator) — 15,000+ transactions, nearly £20K in revenue, fully self-built.
+ 
+In 2025, my team ranked #1 in Sudan at IEEEXtreme 19.0 out of 19,000+ participants worldwide.
+ 
+I care about systems that scale, code that ships, and products that work.
+ 
+📍 Alexandria, Egypt · Open to remote opportunities
 
-* 🔭 **Currently Building:** [Zameel](https://github.com/tedddby) – Revolutionizing Conversational Commerce via AI-integrated workflows.
-* 🛠️ **Recent Launch:** [TunnelFlow](https://github.com/tedddby) – A developer tool for secure local port exposure.
-* ⚡ **Core Expertise:** Node.js (Express), C#, PHP, and MySQL Database Design.
-* 📄 **Resume:** [View my professional experiences](https://drive.google.com/file/d/1AZUexa_i48qLs22fIGmC9ffuWYqqdLLp/view?usp=sharing)
+*  **Recent Launch:** [TunnelFlow](https://github.com/tedddby/TunnelFlow) – A developer tool for secure local port exposure.
+*  **Core Expertise:** Node.js (Express), C#, PHP, and MySQL Database Design.
+*  **Resume:** [View my professional experiences](https://drive.google.com/file/d/1Qz9qQoJFoXPmCPs2aLH9XMgXa39NskPz/view?usp=sharing)
 
 ---
 
-### 🛠️ Languages & Technologies
+###  Languages & Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,js,cs,php,mysql,java,html,css,git,linux,postman" />
 </p>
 
 ---
 
-### 📊 Github Stats
+### Github Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tedddby&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tedddby&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
@@ -44,6 +59,3 @@ I am a **Backend-focused Software Engineer** and startup co-founder specializing
 
 ---
 
-<p align="center">
-  <i>"Building the future of commerce, one API at a time."</i>
-</p>

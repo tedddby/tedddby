@@ -1,25 +1,49 @@
 <h1 align="center">Hi 👋, I'm Awab Ali</h1>
-<h3 align="center">Software Engineer (Backend-Focused) | Node.js, C#, PHP | REST APIs | MySQL</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tedddby&label=Profile%20views&color=0e75b6&style=flat" alt="tedddby" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tedddby" alt="tedddby" /></a> </p>
-
-- 👨‍💻 LinkedIn Profile [https://www.linkedin.com/in/4wab-ali/](https://www.linkedin.com/in/4wab-ali/)
-
-- 📫 How to reach me **awab0dev@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AZUexa_i48qLs22fIGmC9ffuWYqqdLLp/view?usp=sharing](https://drive.google.com/file/d/1AZUexa_i48qLs22fIGmC9ffuWYqqdLLp/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/4wab-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="4wab-ali" height="30" width="40" /></a>
-<a href="https://discord.gg/tedddby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tedddby" height="30" width="40" /></a>
+<p align="center">
+  <strong>Technical Entrepreneur | Backend Architect | Full-Stack Developer</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/4wab-ali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:awab0dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://discord.gg/tedddby"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tedddby&show_icons=true&locale=en&layout=compact" alt="tedddby" /></p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tedddby&theme=onestar&column=7&margin-w=15" alt="trophies" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tedddby&show_icons=true&locale=en" alt="tedddby" /></p>
+---
+
+### 🚀 About Me
+I am a **Backend-focused Software Engineer** and startup co-founder specializing in scalable architecture and high-performance APIs. I bridge the gap between complex server-side logic and seamless user experiences.
+
+* 🔭 **Currently Building:** [Zameel](https://github.com/tedddby) – Revolutionizing Conversational Commerce via AI-integrated workflows.
+* 🛠️ **Recent Launch:** [TunnelFlow](https://github.com/tedddby) – A developer tool for secure local port exposure.
+* ⚡ **Core Expertise:** Node.js (Express), C#, PHP, and MySQL Database Design.
+* 📄 **Resume:** [View my professional experiences](https://drive.google.com/file/d/1AZUexa_i48qLs22fIGmC9ffuWYqqdLLp/view?usp=sharing)
+
+---
+
+### 🛠️ Languages & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,js,cs,php,mysql,java,html,css,git,linux,postman" />
+</p>
+
+---
+
+### 📊 Github Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tedddby&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tedddby&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tedddby&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Views" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Building the future of commerce, one API at a time."</i>
+</p>

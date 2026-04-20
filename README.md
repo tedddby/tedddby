@@ -22,9 +22,9 @@ Currently co-founding Zameel, a multi-tenant SaaS platform that lets Gulf mercha
  
 Some things I'm proud of shipping:
  
-— An LLM-powered order parsing engine (Gemini / DeepSeek / Claude) achieving 87% extraction accuracy across Arabic & English
-— A Redis caching layer that cut AI API calls by 48% and improved response times by 35%
-— A full payment migration from Tap to Stripe with 100% completion and a 17% lift in transaction rates
+* An LLM-powered order parsing engine (Gemini / DeepSeek / Claude) achieving 87% extraction accuracy across Arabic & English
+* A Redis caching layer that cut AI API calls by 48% and improved response times by 35%
+* A full payment migration from Tap to Stripe with 100% completion and a 17% lift in transaction rates
  
 Before Zameel, I built and operated my own software platform (TedddbyActivator) — 15,000+ transactions, nearly £20K in revenue, fully self-built.
  

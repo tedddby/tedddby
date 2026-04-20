@@ -2,6 +2,9 @@
 <p align="center">
   <strong>Backend & DevOps Engineer</strong>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tedddby&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Views" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/4wab-ali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -53,9 +56,7 @@ I care about systems that scale, code that ships, and products that work.
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tedddby&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tedddby&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Views" />
-</p>
+
 
 ---
 
